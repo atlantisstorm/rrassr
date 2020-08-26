@@ -7,8 +7,8 @@ Built on Windows 10 using node 14.6
 
 # Credits:
 
-Tyler McGinnis:
-https://github.com/uidotdev/rrssr-v4 
-https://www.youtube.com/watch?v=mZEv4mHsU5E
+Tyler McGinnis:  
+https://github.com/uidotdev/rrssr-v4   
+https://www.youtube.com/watch?v=mZEv4mHsU5E  
 
 *standing on the shoulders of giants*
